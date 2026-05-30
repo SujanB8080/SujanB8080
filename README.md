@@ -1,5 +1,5 @@
 # 💫 About Me:
--- BCA grad with 8.6 CGPA <br>-- Have skills in Data Analytics(EDA), Data Collection, <br>     Data Wrangling.<br><br>  
+-- BCA grad with 8.6 CGPA <br>-- Have skills in Data Analytics(EDA), Data Collection, Data Wrangling.<br><br>  
 
 
 ## 🌐 Socials:
